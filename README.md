@@ -37,7 +37,7 @@ Files:
 * style.css
 
 Description:
-A fully responsive website designed using HTML and CSS. The layout adapts to different screen sizes including desktop, tablet, and mobile devices.
+A fully responsive website designed using HTML and CSS. The layout adapts to different screen sizes including desktop and mobile devices.
 
 Features include:
 
