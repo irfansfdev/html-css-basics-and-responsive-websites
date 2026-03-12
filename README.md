@@ -86,6 +86,4 @@ These projects were created to practice:
 
 Muhammad Irfan
 
-Currently learning JavaScript, React, and Database Development.
-
 GitHub: https://github.com/irfansfdev
